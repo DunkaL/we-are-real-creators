@@ -76,7 +76,8 @@ html::-webkit-scrollbar-thumb {
 }
 
 .main-header {
-  min-height: 100vh;
+  height: 100vh;
+  max-height: 1200px;
   background-size: cover;
   background-position: center;
   position: relative;
